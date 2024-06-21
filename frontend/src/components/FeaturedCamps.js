@@ -1,4 +1,5 @@
 import React from 'react';
+import './FeaturedCamps.css';
 
 const FeaturedCamps = () => {
   return (
@@ -7,7 +8,7 @@ const FeaturedCamps = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card">
-            <img src="https://via.placeholder.com/150" className="card-img-top" alt="Camp" />
+            <img src="https://via.placeholder.com/300" className="card-img-top" alt="Camp" />
             <div className="card-body">
               <h5 className="card-title">Camp Name</h5>
               <p className="card-text">Description of the camp.</p>
@@ -16,7 +17,7 @@ const FeaturedCamps = () => {
         </div>
         <div className="col-md-4">
           <div className="card">
-            <img src="https://via.placeholder.com/150" className="card-img-top" alt="Camp" />
+            <img src="https://via.placeholder.com/300" className="card-img-top" alt="Camp" />
             <div className="card-body">
               <h5 className="card-title">Camp Name</h5>
               <p className="card-text">Description of the camp.</p>
@@ -25,7 +26,7 @@ const FeaturedCamps = () => {
         </div>
         <div className="col-md-4">
           <div className="card">
-            <img src="https://via.placeholder.com/150" className="card-img-top" alt="Camp" />
+            <img src="https://via.placeholder.com/300" className="card-img-top" alt="Camp" />
             <div className="card-body">
               <h5 className="card-title">Camp Name</h5>
               <p className="card-text">Description of the camp.</p>
